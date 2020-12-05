@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+[![1chimaruGin's github stats](https://github-readme-stats.vercel.app/api?username=1chimaruGin)](https://github.com/1chimaruGin/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chimaruGin)](https://github.com/1chimaruGin/github-readme-stats)
