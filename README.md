@@ -18,18 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-### Language
-<p align="left">
-<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="" height="40px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/cuda.png" />
-<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</p>
+### *Language*
+<p align="">
+<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" height="40px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/cuda.png" />
+<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br/>
 <br/>
 
-### Most Used Tools
+### *Main Tools*
 
 <img align="left" height="40px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
 <img align="left" height="40px" src="https://github.com/onnx/onnx/blob/master/docs/ONNX_logo_main.png"/>
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### Others Tools
+### *Other Tools*
 
 <img align="left" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" height="40px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/sklearn.png"/>
