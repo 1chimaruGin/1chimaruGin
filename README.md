@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 -->
 
 ### Language
-
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<p align="left">
+<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="" height="40px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/cuda.png" />
+<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</p>
 <br/>
 <br/>
 
@@ -50,8 +52,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+<p align="left" >
+  
 [![1chimaruGin's github stats](https://github-readme-stats.vercel.app/api?username=1chimaruGin)](https://github.com/1chimaruGin/github-readme-stats)
 
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chimaruGin&hide=javascript,Tcl)](https://github.com/1chimaruGin/github-readme-stats)
+
+</p>
