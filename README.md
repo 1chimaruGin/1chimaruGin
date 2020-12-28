@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Computer Vision and Reinforcement Learning project.
-- 🌱 I’m currently learning DL, RL and C++
+- 🌱 I’m currently learning DL, RL and parallel computing
 - ⚡ Fun fact: Anime, Life, Twice in that order 
 
 <!--
