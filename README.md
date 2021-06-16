@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img align="left" height="40px" src="https://camo.githubusercontent.com/7cc5c1ce50d19bb148f96ffcb9b762201ad5e518/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
 <img align="left" height="40px" src="https://docs.opencv.org/master/opencv-logo-small.png" />
 <img align="left" height="40px" src="https://camo.githubusercontent.com/e5efd9b8f2106722c85415f104a352232a3a9437d765778aca491a2c2a7d5d6c/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"/>
-<img align="left" height="40px" src="https://github.com/numpy/numpy/blob/master/branding/logo/primary/numpylogo.png"/>
+<img align="left" height="40px" src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.png"/>
 <br/>
 <br/>
 <br/>
