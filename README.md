@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <br/>
-
+<br/>
 
 ### _Main Tools_
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <br/>
-
+<br/>
 
 ### _Other Tools_
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <img width="60px" align="left" style="padding: 20px" src="images/tensorflow.png" />
 <img width="60px" align="left" style="padding: 20px" src="images/jax.png"/>
 </div>
+<br/>
 <br/>
 <br/>
 
