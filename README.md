@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### _Main Tools_
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="45px" align="left" style="padding: 20px" src="images/pytorch.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/onnx.png"/>
-<img width="60px" align="left" style="padding: 20px" src="images/trt.png" />
+<img width="50px" align="left" style="padding: 20px" src="images/pytorch.png" />
+<img width="60px" align="left" style="padding: 20px" src="images/onnx.png"/>
+<img width="60px" align="left" style="padding: 20px" src="images/bktrt.png" />
 <!-- <img width="80px" align="left" style="padding: 20px" src="images/colab.png"/> -->
 </div>
 <br/>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 <img width="60px" align="left" style="padding: 20px" src="images/wandb.png" />
 <img width="60px" align="left" style="padding: 20px" src="images/sklearn.png" />
-<img width="50px" align="left" style="padding: 20px" src="images/opencv.png"/>
+<img width="55px" align="left" style="padding: 20px" src="images/opencv.png"/>
 <img width="60px" align="left" style="padding: 20px" src="images/tensorflow.png" />
 <img width="60px" align="left" style="padding: 20px" src="images/jax.png"/>
 </div>
