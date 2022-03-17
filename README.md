@@ -15,22 +15,24 @@ Here are some ideas to get you started:
 ### _Language_
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="65px" align="left" style="padding: 20px" src="images/python.png" />
+<img width="60px" align="left" style="padding: 20px" src="images/python.png" />
 <img width="60px" align="left" style="padding: 20px" src="images/cpp.png" />
 <img width="55px" align="left" style="padding: 20px" src="images/bash.png" />
 </div>
 <br/>
 <br/>
 
+
 ### _Main Tools_
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 <img width="50px" align="left" style="padding: 20px" src="images/pytorch.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/onnx.png"/>
+<img width="60px" align="left" style="padding: 10px" src="images/onnx.png"/>
 <img width="60px" align="left" style="padding: 20px" src="images/bktrt.png" />
 <!-- <img width="80px" align="left" style="padding: 20px" src="images/colab.png"/> -->
 </div>
 <br/>
 <br/>
+
 
 ### _Other Tools_
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
