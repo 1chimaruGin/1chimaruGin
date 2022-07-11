@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### _Main Tools_
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 <img width="45px" align="left" style="padding: 20px" src="images/pytorch.png" />
-<img width="55px" align="left" style="padding: 10px" src="images/onnx.png"/>
+<img width="65px" align="left" style="padding: 10px" src="images/onnx.png"/>
 <img width="55px" align="left" style="padding: 20px" src="images/bktrt.png" />
 <img width="55px" align="left" style="padding: 20px" src="images/openvino.png" />
 <img width="70px" align="left" style="padding: 20px" src="images/neural_magic.png" />
