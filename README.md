@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Object Detection, Segementation, classification and Pose estimation
-- 🌱 Speech Recognition and OCR
+- 🔭 Object Detection, Segementation, Pose Estimation, OCR, Action Recognition and Classification. 
+- 🌱 Automatic Speech Recognition and Speech to text
 - ⚡ Fun fact: Anime and coding
 - 😄 Pronouns: キィターヘイン
 
