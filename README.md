@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img width="65px" align="left" style="padding: 10px" src="images/onnx.png"/>
 <img width="55px" align="left" style="padding: 20px" src="images/bktrt.png" />
 <img width="55px" align="left" style="padding: 20px" src="images/openvino.png" />
-<img width="70px" align="left" style="padding: 20px" src="images/neural_magic.png" />
+<img width="65px" align="left" style="padding: 20px" src="images/neural_magic.png" />
 <!-- <img width="80px" align="left" style="padding: 20px" src="images/colab.png"/> -->
 </div>
 <br/>
