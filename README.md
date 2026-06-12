@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Kyithar Hein** (キィターヘイン) — an AI engineer with **6+ years** in machine learning, including **3+ years** building **production autonomous-driving & safety systems** at a top Japanese automaker. For the last **2+ years** I've worked in **blockchain / web3** — building **Rust MEV & mempool infrastructure** and doing **smart-contract security & bug bounty hunting**.
+I'm **Kyithar Hein** (キィターヘイン) — an AI engineer with **6+ years** in machine learning, including **3+ years** building **production autonomous-driving & safety systems**. For the last **2+ years** I've worked in **blockchain / web3** — building **Rust MEV & mempool infrastructure** and doing **smart-contract security & bug bounty hunting**.
 
 - 👁️ **Computer Vision & Autonomous Driving** — object detection, segmentation, pose estimation, OCR, action recognition, multi-object tracking; production ADAS sensor stack (fisheye cameras, LiDAR, CAN bus, GPS) with speed & trajectory estimation of surrounding vehicles, pedestrians & animals
 - 🗣️ **NLP & Speech** — automatic speech recognition / speech-to-text, multilingual OCR, low-resource language corpora
