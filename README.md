@@ -1,54 +1,65 @@
 ### Hi there 👋
 
-<!--
-**1chimaruGin/1chimaruGin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kyithar Hein** (キィターヘイン) — an AI engineer with **6+ years** in machine learning, including **3+ years** building **production autonomous-driving & safety systems** at a top Japanese automaker. For the last **2+ years** I've worked in **blockchain / web3** — building **Rust MEV & mempool infrastructure** and doing **smart-contract security & bug bounty hunting**.
 
-Here are some ideas to get you started:
--->
-
-- 🔭 Object Detection, Segementation, Pose Estimation, OCR, Action Recognition and Classification. 
-- 🌱 Automatic Speech Recognition and Speech to text
+- 👁️ **Computer Vision & Autonomous Driving** — object detection, segmentation, pose estimation, OCR, action recognition, multi-object tracking; production ADAS sensor stack (fisheye cameras, LiDAR, CAN bus, GPS) with speed & trajectory estimation of surrounding vehicles, pedestrians & animals
+- 🗣️ **NLP & Speech** — automatic speech recognition / speech-to-text, multilingual OCR, low-resource language corpora
+- ⚙️ **Web3 / MEV** — Rust mempool listeners & automated trading bots across Ethereum, BSC and Solana
+- 🛡️ **Smart-contract Security** — auditing & bug bounty hunting (DeFi: lending, AMMs, staking, oracles, bridges)
+- 💼 **Open to** — AI freelance, security bug bounties, and web3 development
 - ⚡ Fun fact: Anime and coding
-- 😄 Pronouns: キィターヘイン
 
+---
 
-### _Language_
+### 💻 Languages
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="60px" align="left" style="padding: 20px" src="images/python.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/cpp.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/bash.png" />
-</div>
-<br/>
-<br/>
-<br/>
+**Daily drivers**
 
-### _Main Tools_
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="45px" align="left" style="padding: 20px" src="images/pytorch.png" />
-<img width="65px" align="left" style="padding: 10px" src="images/onnx.png"/>
-<img width="55px" align="left" style="padding: 20px" src="images/bktrt.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/openvino.png" />
-<img width="65px" align="left" style="padding: 20px" src="images/neural_magic.png" />
-<!-- <img width="80px" align="left" style="padding: 20px" src="images/colab.png"/> -->
-</div>
-<br/>
-<br/>
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### _Other Tools_
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="60px" align="left" style="padding: 20px" src="images/wandb.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/sklearn.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/opencv.png"/>
-<img width="60px" align="left" style="padding: 20px" src="images/tensorflow.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/jax.png"/>
-</div>
-<br/>
-<br/>
-<br/>
+**Also working with**
 
-### _Stats_
-[![1chimaruGin's github stats](https://github-readme-stats.vercel.app/api?username=1chimaruGin)](https://github.com/1chimaruGin/github-readme-stats)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<!-- ![profile](https://visitor-badge.laobi.icu/badge?page_id=1chimaruGin.1chimaruGin) -->
+---
+
+### 🧠 AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-888888?style=flat-square&logo=google&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+### 🛡️ Web3 Security & Smart Contracts
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-FE5000?style=flat-square)
+![Slither](https://img.shields.io/badge/Slither-2C3E50?style=flat-square)
+
+---
+
+### 🚀 Featured Work
+
+**Web3 / MEV & Security**
+- [eth-mempool](https://github.com/1chimaruGin/eth-mempool) · [bsc-mempool](https://github.com/1chimaruGin/bsc-mempool) · [orca-mempool](https://github.com/1chimaruGin/orca-mempool) — real-time **mempool listeners & trading-bot infrastructure** (Rust) across Ethereum, BSC and Solana/Orca
+- [daily-web3-threat-briefing](https://github.com/1chimaruGin/daily-web3-threat-briefing) — automated **daily security threat-intelligence** feed (live exploits, techniques & CVEs)
+
+**Computer Vision**
+- [Object-Counter](https://github.com/1chimaruGin/Object-Counter) — multi-object **tracking, counting & trajectory** analysis
+- [EyeControl](https://github.com/1chimaruGin/EyeControl) — control the mouse with **eye movement**
+
+**Language & Speech**
+- [BurmeseCorpus](https://github.com/1chimaruGin/BurmeseCorpus) — a **Burmese language corpus** for low-resource NLP
+- [papago](https://github.com/1chimaruGin/papago) — **Japanese learning** tool
