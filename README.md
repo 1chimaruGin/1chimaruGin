@@ -61,7 +61,5 @@ I'm **Kyi Thar Hein** (キィターヘイン) — an AI engineer with **6+ years
 **Computer Vision**
 - [Object-Counter](https://github.com/1chimaruGin/Object-Counter) — multi-object **tracking, counting & trajectory** analysis
 - [EyeControl](https://github.com/1chimaruGin/EyeControl) — control the mouse with **eye movement**
-
-**Language & Speech**
-- [BurmeseCorpus](https://github.com/1chimaruGin/BurmeseCorpus) — a **Burmese language corpus** for low-resource NLP
-- [papago](https://github.com/1chimaruGin/papago) — **Japanese learning** tool
+- [Pose-Estimation](https://github.com/1chimaruGin/Pose-Estimation) — whole-body, body & hand **pose estimation** with fast inference
+- [Neural-Style-Transfer](https://github.com/1chimaruGin/Neural-Style-Transfer) — **neural style transfer**
