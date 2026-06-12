@@ -4,7 +4,7 @@ I'm **Kyithar Hein** (キィターヘイン) — an AI engineer with **6+ years*
 
 - 👁️ **Computer Vision & Autonomous Driving** — object detection, segmentation, pose estimation, OCR, action recognition, multi-object tracking; production ADAS sensor stack (fisheye cameras, LiDAR, CAN bus, GPS) with speed & trajectory estimation of surrounding vehicles, pedestrians & animals
 - 🗣️ **NLP & Speech** — automatic speech recognition / speech-to-text, multilingual OCR, low-resource language corpora
-- ⚙️ **Web3 / MEV** — Rust mempool listeners & automated trading bots across Ethereum, BSC and Solana
+- ⚙️ **Web3 / MEV** — Rust mempool listeners & automated trading bots across Ethereum, BNB Chain, Solana and Hyperliquid
 - 🛡️ **Smart-contract Security** — auditing & bug bounty hunting (DeFi: lending, AMMs, staking, oracles, bridges)
 - 💼 **Open to** — AI freelance, security bug bounties, and web3 development
 - ⚡ Fun fact: Anime and coding
@@ -43,7 +43,9 @@ I'm **Kyithar Hein** (キィターヘイン) — an AI engineer with **6+ years*
 ### 🛡️ Web3 Security & Smart Contracts
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/BNB%20Chain-F0B90B?style=flat-square&logo=bnbchain&logoColor=black)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Hyperliquid](https://img.shields.io/badge/Hyperliquid-072723?style=flat-square&logo=hyperliquid&logoColor=97FCE4)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-FE5000?style=flat-square)
 ![Slither](https://img.shields.io/badge/Slither-2C3E50?style=flat-square)
@@ -53,7 +55,7 @@ I'm **Kyithar Hein** (キィターヘイン) — an AI engineer with **6+ years*
 ### 🚀 Featured Work
 
 **Web3 / MEV & Security**
-- [eth-mempool](https://github.com/1chimaruGin/eth-mempool) · [bsc-mempool](https://github.com/1chimaruGin/bsc-mempool) · [orca-mempool](https://github.com/1chimaruGin/orca-mempool) — real-time **mempool listeners & trading-bot infrastructure** (Rust) across Ethereum, BSC and Solana/Orca
+- [eth-mempool](https://github.com/1chimaruGin/eth-mempool) · [bsc-mempool](https://github.com/1chimaruGin/bsc-mempool) · [orca-mempool](https://github.com/1chimaruGin/orca-mempool) — real-time **mempool listeners & trading-bot infrastructure** (Rust) across Ethereum, BNB Chain, Solana/Orca and Hyperliquid
 - [daily-web3-threat-briefing](https://github.com/1chimaruGin/daily-web3-threat-briefing) — automated **daily security threat-intelligence** feed (live exploits, techniques & CVEs)
 
 **Computer Vision**
